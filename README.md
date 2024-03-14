@@ -8,6 +8,10 @@ Repozitář pro Jupyterové notebooky k seriálu 34. série (o Manimu), k dispoz
 - [4. série](https://mybinder.org/v2/gh/MikulasZelinka/ksp-serial-34/HEAD?labpath=serial4.ipynb) (grafy a 3D)
 - [5. série](https://mybinder.org/v2/gh/MikulasZelinka/ksp-serial-34/HEAD?labpath=serial5.ipynb) (pluginy, `manim-physics` a `chanim`, oba dva momentálně nefunkční s použitou manim verzí `0.18.0` – ale máme funkční `manim-chemistry`: https://github.com/UnMolDeQuimica/manim-Chemistry)
 
+## OpenGL
+
+Interactive OpenGL animations only work locally (not on mybinder.org). See <https://slama.dev/manim/opengl-and-interactivity/>.
+
 ## How to build
 
 Enter the URL of this repo into [mybinder.org](https://mybinder.org/).

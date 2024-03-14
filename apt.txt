@@ -8,4 +8,3 @@ texlive-latex-extra
 texlive-fonts-extra
 texlive-science
 dvisvgm
-libegl1
