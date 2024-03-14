@@ -1,0 +1,5 @@
+name: manim (python 3.12)
+dependencies:
+  - python=3.12
+  - manim=0.18.0
+  - manim-chemistry=0.3.2
