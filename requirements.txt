@@ -1,2 +1,8 @@
-manim
-black
+manim==0.18.0
+
+# manim-physics doesn't support python 3.12 yet or manim 0.18.0
+# - it also might be abandoned
+# - https://github.com/Matheart/manim-physics
+# manim-physics==0.3.0
+
+manim-chemistry==0.3.2
